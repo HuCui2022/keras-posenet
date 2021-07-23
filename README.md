@@ -1,3 +1,6 @@
+#Resuorces 
+This code is modified from https://github.com/kentsommer/keras-posenet
+
 # Require 
 tensorflow2.3+    
 opencv   
